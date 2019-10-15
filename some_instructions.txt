@@ -1,0 +1,3 @@
+Please place "MySQL Connector Net 8.0.17" folder in C:\Program Files (x86)\MySQL
+Please also add a reference to your C# program. The reference should be where u placed the files above
+then download the needed packages
